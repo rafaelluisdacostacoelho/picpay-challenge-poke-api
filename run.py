@@ -1,5 +1,6 @@
-import requests
 import pandas
+import requests
+
 from datetime import date
 
 response = requests.get('https://pogoapi.net/api/v1/fast_moves.json')
