@@ -7,7 +7,7 @@ Sistema Operacional: Windows 10
 Baixe e instale o [Python 3.8.5](https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe)
 
 <p align="center">
-    ![](python.gif)
+    <img src="python.gif">
 </p>
 
 ### 2. Iniciando o Projeto
