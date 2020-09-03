@@ -24,4 +24,6 @@ dataframe = dataframe[['id',
                        'created_at',
                        'move_id']]
 
+del dataframe['move_id']
+
 dataframe.to_csv('pokemon.csv', encoding='utf-8', index=False)
