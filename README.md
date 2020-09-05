@@ -8,7 +8,7 @@
 
 Por questão de simplicidade, foi usada a imagem docker `jupyter/pyspark-notebook` para o desenvolvimento da challenge.
 
-Execute o comando `$ docker pull jupyter/pyspark-notebook` no shell ou powershell para iniciar o container e depois navegue para o endereço `http://localhost:8888`, faça o upload dos notebooks a citados a seguir e voilá.
+Execute o comando `$ docker pull jupyter/pyspark-notebook` no shell ou powershell para iniciar o container e depois navegue para o endereço `http://localhost:8888`, faça o upload dos notebooks citados a seguir.
 
 No diretório **notebooks/pyspark** estão os notebooks desenvolvidos.
 
